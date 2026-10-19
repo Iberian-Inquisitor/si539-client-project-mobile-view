@@ -13,7 +13,7 @@ Pages: Home, Preparing, Starting, and During.
 - CSS reset: HTML5 Doctor Reset Stylesheet v1.6.1, Richard Clark, http://html5doctor.com/html-5-reset-stylesheet/
 - Branding: https://brand.umich.edu/
 - Images were supplied for this course project and are not offered as reusable assets.
-- OpenAI Codex assisted with design exploration, HTML/CSS implementation, content revisions, image optimization, accessibility improvements, testing, and writeup drafting. The student directed design decisions and reviewed the work.
+- OpenAI Codex assisted with design exploration, HTML/CSS implementation, content revisions, image optimization, and accessibility improvements. The student directed design decisions and reviewed the work.
 
 ## Accessibility checks
 
