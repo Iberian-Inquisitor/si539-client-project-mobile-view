@@ -14,6 +14,11 @@ Pages: Home, Preparing, Starting, and During.
 - Branding: https://brand.umich.edu/
 - Images were supplied for this course project and are not offered as reusable assets.
 - OpenAI Codex assisted with design exploration, HTML/CSS implementation, content revisions, image optimization, accessibility improvements, testing, and writeup drafting. The student directed design decisions and reviewed the work.
+- Codex selected the Grid sizing approach and rem values, including the 3.5rem logo column, the 17rem content-card minimum, and the 2.2rem step-number column. Here, rem is relative to the root font size. Minimal source comments in the HTML and CSS identify this assistance and the reset source.
+
+## Deployment 2
+
+Restored the required source-attribution comments and documented Codex's Grid and rem sizing decisions. The page content, layout rules, and images are unchanged from the first deployment.
 
 ## Accessibility checks
 

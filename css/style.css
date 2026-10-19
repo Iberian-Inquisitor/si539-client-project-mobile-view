@@ -1,6 +1,8 @@
 
 
 
+/* Shared layout/accessibility CSS generated and revised with OpenAI Codex; rem sizes chosen by Codex.
+   UM color reference: https://brand.umich.edu/ */
 * {
   box-sizing: border-box;
 }
@@ -56,6 +58,7 @@ main:focus h1 {
   top: .5rem;
   outline: 3px solid #00274c;
 }
+/* Codex Grid: logo width and spacing use rem, relative to the root font size. */
 .masthead {
   display: grid;
   grid-template-columns: 3.5rem 1fr;
@@ -145,6 +148,7 @@ section {
   margin-bottom: 2.75rem;
 }
 
+/* Codex Grid: auto-fit/minmax with a 17rem minimum; min(..., 100%) supports narrow-screen reflow. */
 main > section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(17rem, 100%), 1fr));
@@ -200,6 +204,7 @@ iframe {
   margin-bottom: 1.5rem;
 }
 
+/* Codex Grid: a 2.2rem number column; 1fr assigns the remaining width to the content. */
 .step {
   display: grid;
   grid-template-columns: 2.2rem 1fr;
